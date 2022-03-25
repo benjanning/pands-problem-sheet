@@ -24,6 +24,6 @@ def collatz(n):
     print(1)
 
 #Print the sequence of the calculation, down as far as the end number.
-print("Sequence: ")
+print ("Sequence: ")
 collatz(n)
 
