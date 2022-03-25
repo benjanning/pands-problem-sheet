@@ -1,7 +1,7 @@
 # pands-problem-sheet
 Repository for Weekly Pands Problem Sheets - Programming and Scripting
 
-Week 02 - Problem Sheet 1 - BMI Calculator
+# Week 02 - Problem Sheet 1 - BMI Calculator
 
 In the first task I was asked to calculate the BMI of a person using Python.  
 I wrote the code to ask the user to input a their height and weight and converted the input to a float so 
@@ -18,7 +18,7 @@ https://www.reddit.com/r/learnprogramming/comments/n16exe/how_to_format_to_two_d
 
 
 
-Week 03 - Problem Sheet 2 - secondstring
+# Week 03 - Problem Sheet 2 - secondstring
 
 In the second task I was asked to write a program that asks a user to input a string and output every second letter in reverse order.
 
@@ -32,7 +32,7 @@ https://www.w3schools.com/python/python_strings_slicing.asp
 
 
 
-Week 04 - Problem Sheet 3 - Collatz
+# Week 04 - Problem Sheet 3 - Collatz
 
 In the third task I was asked to: 
 Write a program that asks the user to input any postive integer,
@@ -58,7 +58,7 @@ https://www.tutorialspoint.com/collatz-sequence-in-python
 
 
 
-Week 05 - Problem Sheet 4 - Weekday
+# Week 05 - Problem Sheet 4 - Weekday
 
 In the fourth task I was asked to write a program that outputs whether or not it is a Weekday.
 
@@ -78,7 +78,7 @@ If the number was outside of this zone I could confirm it was the weekend with a
 
 
 
-Week 06 - Problem Sheet 5 - Square Root
+# Week 06 - Problem Sheet 5 - Square Root
 
 In the fifth task I was asked to write a program that takes a positive floating number and outputs
 an approximation of it's square root.
@@ -104,7 +104,7 @@ At this point the loop stopped and gave the best approximation of the square roo
 
 
 
-Week 07 - Problem Sheet 6 - Letter Frequency
+# Week 07 - Problem Sheet 6 - Letter Frequency
 
 In the sixth task I was asked to write a program that reads in a text file and outputs the number of e's it contains.
 
@@ -125,7 +125,7 @@ and increasing the count by 1 each time the programme counted the number of occu
 
 
 
-Week 08 - Problem Sheet 7 - Plot Task
+# Week 08 - Problem Sheet 7 - Plot Task
 
 For the seventh task I was asked to a write a program that displays a plot of the functions 
 f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
