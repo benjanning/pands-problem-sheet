@@ -9,11 +9,11 @@ import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 
 #defining the line style to make the data look prettier
-linestyle_str = [
-     ('solid', 'solid'),      # Same as (0, ()) or '-'
-     ('dotted', 'dotted'),    # Same as (0, (1, 1)) or ':'
-     ('dashed', 'dashed'),    # Same as '--'
-     ('dashdot', 'dashdot')]  # Same as '-.'
+# linestyle_str = [
+#      ('solid', 'solid'),      # Same as (0, ()) or '-'
+#      ('dotted', 'dotted'),    # Same as (0, (1, 1)) or ':'
+#      ('dashed', 'dashed'),    # Same as '--'
+#      ('dashdot', 'dashdot')]  # Same as '-.'
 
 # create an array for the given range
 xpoints = np.array(range(0, 4))
@@ -24,9 +24,9 @@ x3 = xpoints * xpoints * xpoints
 x4 = xpoints * xpoints * xpoints * xpoints
 
 # Plotting each line.  Use different colours & styles for each
-plt.plot(x2, linestyle_str = "dashed", color = "red", marker = "x", label = "x2")
-plt.plot(x3, linestyle_str = "dashed", color = "blue", marker = "o", label = "x3")
-plt.plot(x4, linestyle_str = "dashed", colour = "green", marker = ".", label = "x4")
+plt.plot(x2, linestyle = "dashed", color = "red", marker = "x", label = "x2")
+plt.plot(x3, linestyle = "dotted", color = "blue", marker = "o", label = "x3")
+plt.plot(x4, linestyle = "solid", color = "green", marker = ".", label = "x4")
 
 # Adding a Legend
 plt.legend()

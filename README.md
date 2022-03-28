@@ -132,17 +132,6 @@ f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
 
 Numpy and Matplotlib were imported first, as they are necessary for this task.
 
-I wanted to add a different style to the lines in this programme, to make it look prettier.  I encountered an error “AttributeError: 'Line2D' object has no property 'linestyle_str'”, so I used the line of code “from matplotlib.lines import Line2D”.  This still returned the same result.
-Reference used:
-https://stackoverflow.com/questions/71239369/line2d-object-has-no-property-label-horizontal-line-in-matplotlib-chart-wil
-
-From the resource below I also tried defining the line style with “ set_linestyle = “--” ”:
-https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.lines.Line2D.html#matplotlib.lines.Line2D.set_dashes
-
-Again, I encountered “AttributeError: 'Line2D' object has no property 'linestyle_str'”
-
-I still need to find a fix for this issue.
-
 I made an array called xpoints, which define the range for the given points. 
 
 Using simple multiplication the squared, cubed and quardic functions were defined.  
