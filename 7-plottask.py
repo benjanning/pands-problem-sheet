@@ -8,13 +8,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 
-#defining the line style to make the data look prettier
-# linestyle_str = [
-#      ('solid', 'solid'),      # Same as (0, ()) or '-'
-#      ('dotted', 'dotted'),    # Same as (0, (1, 1)) or ':'
-#      ('dashed', 'dashed'),    # Same as '--'
-#      ('dashdot', 'dashdot')]  # Same as '-.'
-
 # create an array for the given range
 xpoints = np.array(range(0, 4))
 
