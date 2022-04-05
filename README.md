@@ -12,7 +12,7 @@ I then defined the formula for calculating the BMI. [1]
 In order to format the result to 2 decimal places I used the code “round: BMI = round(BMI, 2)
 [2]
 
-# Week 03 - Problem Sheet 2 - secondstring
+# Week 03 - Problem Sheet 2 - Secondstring
 
 In the second task I was asked to write a program that asks a user to input a string and output every second letter in reverse order.
 
@@ -101,14 +101,25 @@ I used the Matplotlib (plt) functions for a Legend, Title and Labels and finally
 References:
 
 [1] - https://dev.to/mindninjax/how-to-build-a-bmi-calculator-in-python-4g2g
+
 [2] - https://www.reddit.com/r/learnprogramming/comments/n16exe/how_to_format_to_two_decimal_places_python/
+
 [3] - https://www.w3schools.com/python/python_strings_slicing.asp
+
 [4] - https://www.pythonpool.com/collatz-sequence-python/
+
 [5] - https://www.tutorialspoint.com/collatz-sequence-in-python
+
 [6] - https://stackoverflow.com/questions/9847213/how-do-i-get-the-day-of-week-given-a-date
+
 [7] - https://www.delftstack.com/howto/python/python-datetime-day-of-week/
+
 [8] - https://www.w3schools.com/python/python_datetime.asp
+
 [9] - https://realpython.com/python-square-root-function/
+
 [10] - https://www.youtube.com/watch?v=99ABkygm2Xg
+
 [11] - https://pythonexamples.org/python-count-occurrences-of-word-in-text-file/
+
 [12] - https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
