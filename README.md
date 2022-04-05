@@ -3,8 +3,8 @@ Repository for Weekly Pands Problem Sheets - Programming and Scripting
 
 # Week 02 - Problem Sheet 1 - BMI Calculator
 
-In the first task I was asked to calculate the BMI of a person using Python.  
-I wrote the code to ask the user to input a their height and weight and converted the input to a float so 
+In the first task I was asked to calculate the BMI of a person by using Python.  
+I wrote the code which ask the user to input their height and weight and converted the input to a float so 
 the numbers could have decimal points.
 
 I then defined the formula for calculating the BMI. [1]
@@ -18,9 +18,7 @@ In the second task I was asked to write a program that asks a user to input a st
 
 First I asked the user to input the data as a string format. 
 
-After trying different long winded methods, I found string slicing through w3schools.  By using string slicing I was able to set the step size (2) and direction (-1).  This enabled me to write the programme with a very short bit of code. [3]
-
-
+After trying different long winded methods, I found string slicing through w3schools.  By using string slicing I was able to set the step size (2) and direction (-1).  This enabled me to write the programme with a very short line of code. [3]
 
 # Week 04 - Problem Sheet 3 - Collatz
 
@@ -32,17 +30,12 @@ And if it is even divide it by two, if it is odd, multiply by three and add one.
 Have the program end if the current value is one.
 
 I first asked the user to input a positive integer as an "int"
-By using collatz I checked if the input was odd or even, by using a while loop.
-The while loop tried to divide the number by 2 if it was greater than 1.
-If it wasn't even, the number was multiplied by 3 and 1 added to it.
-Otherwise the number was being divided by 2 until we eventually reached 1
+By using collatz I checked if the input was odd or even, through using a while loop.
+The while loop tried to divide the number by 2 if the number was greater than 1.
+If the number wasn't even, the number was multiplied by 3 and 1 added to it.
+Otherwise the number was being divided by 2 until it eventually reached 1
 
 I then printed the sequence down as far as the final number. [4] [5]
-
-
-
-
-
 
 # Week 05 - Problem Sheet 4 - Weekday
 
@@ -56,18 +49,14 @@ Using an if statement I was able to say that if the number of the day was smalle
 
 If the number was outside of this zone I could confirm it was the weekend with an else statement.
 
-
-
-
-
 # Week 06 - Problem Sheet 5 - Square Root
 
-In the fifth task I was asked to write a program that takes a positive floating number and outputs
+In the fifth task I was asked to write a program that took a positive floating number and outputs
 an approximation of it's square root. [9]
 
 I first asked the user for the input and converted it to a float.
 
-I then made a function, which takes the number and got a approximate estimation of the square root by divin
+I then made a function, which takes the number and got an approximate estimation of the square root by diving
 it in half.
 
 I then got a better approximation  of the Square Root by using Newton's method: 
@@ -90,14 +79,9 @@ At first I used a methid which ended up counting the ocurences of a word with th
 Before finding help in this method;
 [12]
 
-
 I made a function called letterFrequency and used a counter ("count") 
 By using an if statement, for when the letter "e" occured
 and increasing the count by 1 each time the programme counted the number of occurences.
-
-
-
-
 
 # Week 08 - Problem Sheet 7 - Plot Task
 
@@ -112,8 +96,7 @@ Using simple multiplication the squared, cubed and quardic functions were define
 
 Matplotlib's (plt) plot function was used to plot each line and give it a differet appearance.
 
-I used the Matplotlib (plt) functions for a Legend, Title and labels and finally wrote plt.show() to output the result.
-
+I used the Matplotlib (plt) functions for a Legend, Title and Labels and finally wrote plt.show() to output the result.
 
 References:
 
