@@ -1,3 +1,28 @@
+# Python Problem-Solving Exercises
+
+**Python · Algorithms · Scripting · Matplotlib**
+
+A set of short programming exercises completed during the Programming & Scripting module, demonstrating the progression from basic input and control flow to functions, files and charts.
+
+## Exercises
+
+| Skill | Source |
+| --- | --- |
+| Calculate BMI using numeric inputs | [1 - bmi.py](./1%20-%20bmi.py) |
+| String slicing and reverse stepping | [2 - secondstring.py](./2%20-%20secondstring.py) |
+| Iterative Collatz sequence | [3 - collatz.py](./3%20-%20collatz.py) |
+| Work with dates and weekdays | [4 - weekday.py](./4%20-%20weekday.py) |
+| Estimate a square root using Newton's method | [5-squareroot.py](./5-squareroot.py) |
+| Count character occurrences in a text file | [6 - letterFrequency](./6%20-%20letterFrequency) |
+| Plot mathematical functions | [7-plottask.py](./7-plottask.py) |
+
+Run individual examples with `python "<filename>.py"` from a local Python installation. Some scripts expect interactive input, files or plotting libraries.
+
+**Context:** These are introductory exercises. For substantial end-to-end projects, see my [portfolio index](https://github.com/benjanning/programming2022).
+
+<details>
+<summary>Original learning notes and references</summary>
+
 # pands-problem-sheet
 Repository for Weekly Pands Problem Sheets - Programming and Scripting
 
@@ -123,3 +148,7 @@ References:
 [11] - https://pythonexamples.org/python-count-occurrences-of-word-in-text-file/
 
 [12] - https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
+</details>
+
+---
+[View my public portfolio](https://github.com/benjanning/programming2022).
