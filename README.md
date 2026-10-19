@@ -18,7 +18,7 @@ A set of short programming exercises completed during the Programming & Scriptin
 
 Run individual examples with `python "<filename>.py"` from a local Python installation. Some scripts expect interactive input, files or plotting libraries.
 
-**Context:** These are introductory exercises. For substantial end-to-end projects, see my [portfolio index](https://github.com/benjanning/programming2022).
+**Context:** These are introductory exercises. For substantial end-to-end projects, see my [portfolio index](https://benjanning.github.io/projects/).
 
 <details>
 <summary>Original learning notes and references</summary>
@@ -151,4 +151,4 @@ References:
 </details>
 
 ---
-[View my public portfolio](https://github.com/benjanning/programming2022).
+[View my public portfolio](https://benjanning.github.io/projects/).
